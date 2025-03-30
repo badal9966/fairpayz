@@ -9,8 +9,8 @@ const Home = () => {
         <h1 className="title">Welcome to FairPayz</h1>
         <p className="description">Effortlessly split expenses and track shared costs with friends, roommates, and groups.</p>
         <div className="buttons">
-          <Link to="/signup" className="button primary">Get Started</Link>
-          <Link to="/features" className="button secondary">Learn More</Link>
+          <Link to="/login" className="button primary">Get Started</Link>
+          <Link to="/services" className="button secondary">Learn More</Link>
         </div>
       </section>
 
